@@ -1,0 +1,33 @@
+Alternative min path starting from vertex A
+A->-H->-G->-B->-F->-E->-D->-J->-C->-K->-I->-A->->> PathCost:1262
+
+Alternative min path starting from vertex B
+B->-F->-E->-D->-J->-C->-K->-I->-A->-H->-G->-B->->> PathCost:1262
+
+Alternative min path starting from vertex C
+C->-J->-D->-E->-F->-B->-G->-H->-A->-I->-K->-C->->> PathCost:1262
+
+Alternative min path starting from vertex D
+D->-E->-F->-B->-G->-H->-A->-I->-K->-C->-J->-D->->> PathCost:1262
+
+Alternative min path starting from vertex E
+E->-D->-J->-C->-K->-I->-A->-H->-G->-B->-F->-E->->> PathCost:1262
+
+Alternative min path starting from vertex F
+F->-B->-G->-H->-A->-I->-K->-C->-J->-D->-E->-F->->> PathCost:1262
+
+Alternative min path starting from vertex G
+G->-B->-F->-E->-D->-J->-C->-K->-I->-A->-H->-G->->> PathCost:1262
+
+Alternative min path starting from vertex H
+H->-A->-I->-K->-C->-J->-D->-E->-F->-B->-G->-H->->> PathCost:1262
+
+Alternative min path starting from vertex I
+I->-A->-H->-G->-B->-F->-E->-D->-J->-C->-K->-I->->> PathCost:1262
+
+Alternative min path starting from vertex J
+J->-C->-K->-I->-A->-H->-G->-B->-F->-E->-D->-J->->> PathCost:1262
+
+Alternative min path starting from vertex K
+K->-C->-J->-D->-E->-F->-B->-G->-H->-A->-I->-K->->> PathCost:1262
+

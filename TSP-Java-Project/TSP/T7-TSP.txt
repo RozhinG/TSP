@@ -1,0 +1,21 @@
+Alternative min path starting from vertex A
+A->-C->-F->-B->-E->-G->-D->-A->->> PathCost:852
+
+Alternative min path starting from vertex B
+B->-E->-G->-D->-A->-C->-F->-B->->> PathCost:852
+
+Alternative min path starting from vertex C
+C->-A->-D->-G->-E->-B->-F->-C->->> PathCost:852
+
+Alternative min path starting from vertex D
+D->-A->-C->-F->-B->-E->-G->-D->->> PathCost:852
+
+Alternative min path starting from vertex E
+E->-B->-F->-C->-A->-D->-G->-E->->> PathCost:852
+
+Alternative min path starting from vertex F
+F->-B->-E->-G->-D->-A->-C->-F->->> PathCost:852
+
+Alternative min path starting from vertex G
+G->-D->-A->-C->-F->-B->-E->-G->->> PathCost:852
+
